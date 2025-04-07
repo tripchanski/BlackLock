@@ -1,0 +1,11 @@
+version: "3"
+services:
+  app:
+    build: ./mobile
+    volumes:
+      - ./mobile:/app
+    ports:
+      - "8081:8081"
+    stdin_open: true
+    tty: true
+    command: npx expo start --tunnel

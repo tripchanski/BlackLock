@@ -14,3 +14,8 @@ docker exec -it blacklock-app-1 bash
 ```sh
 npx expo start --tunnel
 ```
+
+### For look preview in phone:
+
+1. Install 'Expo Go' in AppStore/PlayStore.
+2. Scan QR code which may be in your terminal when you launch app.

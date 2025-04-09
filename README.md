@@ -2,20 +2,15 @@
 ```sh
 git clone https://github.com/tripchanski/BlackLock.git
 ```
-2. Up containers:
+2. Install Build to android:
 ```sh
-docker compose up -d --build
+https://expo.dev/accounts/tripchanski/projects/mobile/builds/de0fcb96-5809-4daf-9033-bd819696871e
 ```
-3. Go to container:
+3. Open terminal in repository:
 ```sh
-docker exec -it blacklock-app-1 bash
+cd mobile
 ```
 4. Launch app:
 ```sh
-npx expo start --tunnel
+npx expo start
 ```
-
-### For look preview in phone:
-
-1. Install 'Expo Go' in AppStore/PlayStore.
-2. Scan QR code which may be in your terminal when you launch app.

@@ -3,6 +3,8 @@
     "name": "BlackLock",
     "slug": "blacklock-app",
     "version": "1.0.0",
+    "jsEngine": "hermes",
+    "tsEngine": "hermes",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -13,16 +15,23 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tripchanski.blacklockapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tripchanski.blacklockapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ba458eb3-2dec-4cfa-92d1-15bd37b2affc"
+      }
     }
   }
 }

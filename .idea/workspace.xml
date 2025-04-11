@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20f431bd-eb72-40d5-a672-e0d4ef2457f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.expo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.expo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.expo/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/java/com/tripchanski/blacklockapp/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/java/com/tripchanski/blacklockapp/MainApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/drawable-hdpi/splashscreen_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/drawable-mdpi/splashscreen_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/drawable-xhdpi/splashscreen_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/drawable-xxhdpi/splashscreen_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/drawable-xxxhdpi/splashscreen_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/values-night/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/assets/splash-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/eas.json" beforeDir="false" afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/.xcode.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock.xcodeproj/xcshareddata/xcschemes/BlackLock.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/AppDelegate.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/BlackLock-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/BlackLock.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/AppIcon.appiconset/App-Icon-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/SplashScreenBackground.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/SplashScreenLogo.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/SplashScreenLogo.imageset/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/SplashScreenLogo.imageset/image@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Images.xcassets/SplashScreenLogo.imageset/image@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/SplashScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/Supporting/Expo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/BlackLock/noop-file.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/ios/Podfile.properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2vaPFXThzDLNfEbDTdZ85QdkSWq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20f431bd-eb72-40d5-a672-e0d4ef2457f4" name="Changes" comment="" />
+      <created>1744380109924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744380109924</updated>
+    </task>
+    <servers />
+  </component>
+</project>

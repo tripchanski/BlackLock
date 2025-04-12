@@ -13,7 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tripchanski.BlackLock",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -30,6 +34,12 @@
         "projectId": "7b219a56-0af4-4322-bb57-cd463c0b0e27"
       }
     },
-    "owner": "tripchanski"
+    "owner": "tripchanski",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7b219a56-0af4-4322-bb57-cd463c0b0e27"
+    }
   }
 }

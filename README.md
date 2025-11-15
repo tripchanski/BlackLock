@@ -116,5 +116,7 @@ If you find BlackLock useful, consider supporting development:
 MIT License - See LICENSE file for details.
 
 ---
-**Made with ❤️ by Tripchanski*
+**Made with ❤️ by Tripchanski**
+
 **Open Source • Privacy First • Actually Productive**
+

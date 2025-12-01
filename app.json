@@ -2,7 +2,7 @@
   "expo": {
     "name": "BlackLock",
     "slug": "BlackLock",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -14,17 +14,17 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tripchanski.BlackLock",
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
+      "bundleIdentifier": "com.tripchanski.blacklock",
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.tripchanski.BlackLock"
+      "package": "com.tripchanski.blacklock",
+      "versionCode": 4,
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -35,11 +35,6 @@
       }
     },
     "owner": "tripchanski",
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/7b219a56-0af4-4322-bb57-cd463c0b0e27"
-    }
+    "plugins": []
   }
 }

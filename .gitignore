@@ -2,7 +2,8 @@
 
 # dependencies
 node_modules/
-
+.claude
+.idea
 # Expo
 .expo/
 dist/
@@ -16,6 +17,8 @@ expo-env.d.ts
 *.p12
 *.key
 *.mobileprovision
+android/
+ios/
 
 # Metro
 .metro-health-check*
@@ -34,3 +37,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+CLAUDE.md
+DEVELOPMENT.md
+BlackLockBoard.pdf
+PUBLISH_COMPLETE_GUIDE.md
+run-android.bat
